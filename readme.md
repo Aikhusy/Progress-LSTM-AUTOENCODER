@@ -1,6 +1,8 @@
 Progress 28/05/2025
 
 untuk Feature ada 8 (masih uji coba)
+
+
 fw_load_avg_1_min 
 fw_load_avg_5_min
 fw_load_avg_15_min
@@ -25,8 +27,11 @@ perubahan sedikit
 1. sebelumnya menggunakan feature eng
 2. sebelumnya data training dan testing masih mengandung data outlier
 
-SAVEMODEL.ipynb adalah file untuk training data (menggunakan data.csv)
-LOADMODEL.ipynb adalah file untuk testing data (menggunakan data300.csv)
+-SAVEMODEL.ipynb adalah file untuk training data (menggunakan data.csv)
+
+-LOADMODEL.ipynb adalah file untuk testing data (menggunakan data300.csv)
+
+
 
 untuk testing 300 data 
 1. model saya menemukan bahwa [31, 34, 47, 48, 49, 50, 51, 57, 58, 59, 60, 61, 62, 63, 164, 165, 166, 167]
