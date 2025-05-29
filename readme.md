@@ -44,3 +44,13 @@ untuk testing 300 data
 problem 
 1. apakah ini sudah cukup baik, bagaimana menurut panjhennengan
 2. apa yang harus saya lakukan supaya lebih baik?
+--------------------------------------------------------------------
+testing 29/05/2025
+
+1. menambah fitur rx packet dan tx packet
+2. Mencoba menyederhanakan model 
+3. hasilnya ketika menggunakan data anomali dari testing 300
+4. anomalinya terdeteksi dengan baik 
+
+1. apakah ini sudah bagus?
+--------------------------------------------------------------------
