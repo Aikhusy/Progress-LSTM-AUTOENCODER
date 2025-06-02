@@ -54,3 +54,8 @@ testing 29/05/2025
 
 1. apakah ini sudah bagus?
 --------------------------------------------------------------------
+Final 02/06/2025
+
+1. model LSTM sudah bisa mendeteksi anomali outlier
+2. model LSTM sudah bisa mendeteksi anomali data random yang tidak melebihi outlier
+
